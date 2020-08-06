@@ -1,0 +1,172 @@
+
+
+
+
+.Masthead{
+
+ width: 100%;
+
+ height: 45px;
+
+
+
+}
+
+.YoutubeLogo{
+ 
+  width: 25px;
+  height: 25px;
+  position: relative;
+  margin-left: 80px;
+  
+  
+  
+}
+
+.SearchBar{
+  height: 25px;
+  
+  margin-left: 500px;
+   
+  padding-bottom: 30px;
+  
+ 
+}
+
+
+
+
+.navbar{
+
+   width: 100%;
+   height: 25px;
+   float: left;
+   position: relative;
+   transition: all 0.3s ease;
+  
+}
+
+.navbar div{
+
+    height: 8px;
+    width: 60px;
+    background-color: black;
+    position: absolute;
+    margin-top: 90px;
+  
+}
+
+.navbar .start{
+
+  top: 25px;
+  left: 15px
+}
+
+.navbar .center{
+
+    top: 25px;
+    left: 15px;
+}
+
+.navbar .end{
+
+   top: 10px;
+   left: 15px;
+
+}
+
+
+.grid-container1 {
+
+  display: grid;
+  grid-template-columns: 900px;
+  justify-content: start;
+  float: left;
+  
+  }
+  
+  
+  
+  
+  
+  
+  
+  .grid-container2 {
+  
+      display: grid;
+      grid-gap: 50px;
+      grid-template-columns: 500px ;
+      justify-content: start;
+      float: right;
+      margin-top: 150px;
+  }
+
+
+  
+
+
+
+
+#YoutubePlayer{
+
+margin-top: 150px;
+margin-bottom: 20px;
+
+}
+
+
+#video1 {
+
+ width: 180px;
+ height: 150px;
+ background-color: black;
+ 
+ 
+}
+
+#video2 {
+
+  width: 180px;
+  height: 150px;
+  background-color: black;
+  float: right;
+}
+
+#video3 {
+
+  width: 180px;
+  height: 150px;
+  background-color: black;
+  float: right;
+
+
+}
+
+#video4 {
+
+  width: 180px;
+  height: 150px;
+  background-color: black;
+  float: right;
+
+
+}
+
+#video5 {
+
+  width: 180px;
+  height: 150px;
+  background-color: black;
+  float: right;
+}
+
+
+#Comments {
+
+width: 900px;
+height: 900px;
+background-color: grey;
+
+
+
+}
